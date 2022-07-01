@@ -23,3 +23,7 @@ The TfidfVectorizer converts a collection of raw documents into a matrix of TF-I
 # Summary
 
 learned to detect fake news with Python. We took a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of 92.82% in magnitude
+
+# =============================================
+# LINK TO DATA SET
+https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
